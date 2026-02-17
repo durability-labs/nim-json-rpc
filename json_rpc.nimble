@@ -10,7 +10,7 @@
 mode = ScriptMode.Verbose
 
 packageName   = "json_rpc"
-version       = "0.5.4"
+version       = "0.5.5"
 author        = "Status Research & Development GmbH"
 description   = "Ethereum remote procedure calls"
 license       = "Apache License 2.0"
